@@ -1,4 +1,4 @@
-# 🤖 Group 4 Interactive Chatbot System
+# 🤖 An Interactive Chatbot System
 
 This project is a terminal-based **Python chatbot** with multiple features packed into one interface. Built as a collaborative project, it simulates a smart assistant that can answer basic questions, generate passwords, and even entertain users with games like **Rock-Paper-Scissors** and **Coin Toss**.
 
